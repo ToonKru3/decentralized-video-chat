@@ -13,11 +13,11 @@ Decentralized video chat platform powered by WebRTC using Twilio STUN/TURN infra
 Zipcall provides video quality and latency simply not available with traditional
 technology.
 
-![screenshot](public/images/readmecall.png "Video Calling")
+![screenshot](https://camo.githubusercontent.com/df0511358c10d85475a8211530a2aea1d0abd5ed/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f66696c6d746f636174732e706e67)
 
 ## Features
 
-<img align="right" width="400" height="auto" src="public/images/preview.gif">
+<img align="right" width="400" height="auto" src="https://camo.githubusercontent.com/df0511358c10d85475a8211530a2aea1d0abd5ed/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f66696c6d746f636174732e706e67">
 
 - Screen sharing
 - Picture in picture
